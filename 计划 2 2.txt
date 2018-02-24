@@ -1,0 +1,15 @@
+京东电面
+list底下几种list的区别
+hashmap的底层数据结构
+线程的几种状态
+怎样保证线程的顺序执行
+常用的线程池
+
+
+金蛋面试
+JVM、类装载机制
+juc(java常用的集合)
+nio
+网络
+springmvc，spring，mybatis
+mysql 
